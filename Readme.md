@@ -1,2 +1,2 @@
 
-Here you can find configurations, tryouts and other things around ham radio.
+Here you can find configurations, tryouts and other things related ham radio.
