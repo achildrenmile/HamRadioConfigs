@@ -5,7 +5,7 @@
     "Model Number": "GD-88 (EU)",
     "FW Version": "B49E.D66.EHRSAB.007.Oct 27 2022",
     "Frequency range": "F136-480",
-    "Update date": "28/11/2022 12:56",
+    "Update date": "28/11/2022 16:17",
     "Firmware ID": "DRS-880plus"
   },
   "Basic parameters": {
@@ -848,6 +848,12 @@
       "Name": "Austria",
       "Contacts": [
         15
+      ]
+    },
+    {
+      "Name": "KtnFunkt",
+      "Contacts": [
+        50
       ]
     }
   ],
@@ -1731,7 +1737,7 @@
           "TX CC": 1,
           "MSG Type": "UNCONFIRMED",
           "TX Policy": "IMPOLITE",
-          "Group call list": 0,
+          "Group call list": 7,
           "Scan List ID": 0,
           "Default Contact ID": 0,
           "EAS": "OFF",
